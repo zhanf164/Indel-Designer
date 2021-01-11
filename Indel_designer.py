@@ -1,18 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 25 20:26:22 2020
-
-@author: zhanf
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 23 12:43:19 2020
-
-@author: zhanf
-"""
 
 import argparse
 from Bio.Seq import Seq
