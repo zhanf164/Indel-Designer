@@ -1,2 +1,2 @@
 # Indel-Designer
-Create simple baits surrounding Indels read in from a vcf file
+Reads in a filtered VCF containing indels and a genome in order to create simply designed baits for the indels of interest.
